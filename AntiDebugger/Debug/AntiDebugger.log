@@ -1,0 +1,4 @@
+﻿  AntiDebugger.cpp
+C:\Users\weixingyu\source\repos\AntiDebugger\AntiDebugger\AntiDebugger.cpp(243,8): warning C4101: 'ID': unreferenced local variable
+C:\Users\weixingyu\source\repos\AntiDebugger\AntiDebugger\AntiDebugger.cpp(423): warning C4715: 'CheckDebug22': not all control paths return a value
+  AntiDebugger.vcxproj -> C:\Users\weixingyu\source\repos\AntiDebugger\Debug\AntiDebugger.exe
